@@ -1,0 +1,22 @@
+
+Parsed Shared Store Status:
+===========================
+
+store size (M)     :512M
+wait time          :10000 usecs
+expected readers   :6
+registered readers :5
+writer position    :280805312, 52.3041%
+active reader infos ...
+  r0:phQueryWorker,  pos=280805312, 52.3041%
+  r1:phDataManager,  pos=280805312, 52.3041%
+  r2:phRuleWorker,  pos=280805312, 52.3041%
+  r3:phReportWorker,  pos=280805312, 52.3041%
+  r4:phIpIdentityWorker,  pos=280805312, 52.3041%
+active reader ranks ...
+  r0:280805312, 52.3041%
+  r1:280805312, 52.3041%
+  r2:280805312, 52.3041%
+  r3:280805312, 52.3041%
+  r4:280805312, 52.3041%
+

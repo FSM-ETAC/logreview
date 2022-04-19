@@ -6,3 +6,22 @@ build-backend = "setuptools.build_meta"
 testpaths = [
     "tests",
 ]
+
+[tool.pyright]
+include = ["src"]
+exclude = ["**/node_modules",
+    "**/__pycache__",
+    "src/experimental",
+    "src/typestubs",
+]
+ignore = ["src/oldstuff"]
+
+reportMissingImports = true
+reportMissingTypeStubs = false
+
+pythonVersion = "3.10.2"
+pythonPlatform = "Linux"
+
+executionEnvironments = [
+  { root = "src" }
+]

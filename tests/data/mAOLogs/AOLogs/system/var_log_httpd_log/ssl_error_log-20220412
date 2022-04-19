@@ -1,0 +1,6 @@
+[Mon Apr 11 01:00:02.072208 2022] [ssl:warn] [pid 1245:tid 140286625536320] AH01906: sup64jpd:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Apr 11 01:00:02.072231 2022] [ssl:warn] [pid 1245:tid 140286625536320] AH01909: sup64jpd:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 11 01:00:02.209834 2022] [ssl:warn] [pid 1245:tid 140286625536320] AH01906: sup64jpd:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Apr 11 01:00:02.209854 2022] [ssl:warn] [pid 1245:tid 140286625536320] AH01909: sup64jpd:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Apr 12 01:00:02.464511 2022] [ssl:warn] [pid 1245:tid 140286625536320] AH01906: sup64jpd:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Apr 12 01:00:02.464531 2022] [ssl:warn] [pid 1245:tid 140286625536320] AH01909: sup64jpd:443:0 server certificate does NOT include an ID which matches the server name
