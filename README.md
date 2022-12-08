@@ -11,6 +11,12 @@ pip install -e .
 
 3. set default paths in ./configs/logreview.ini
 
+### Install with testing
+
+```bash
+pip install -r requirements_dev.txt
+```
+
 ## Usage
 
 ```bash
@@ -28,3 +34,6 @@ options:
 
 ```bash
 python unpack.py -c 5723255 -f AOLogs_5723255_Collector_DEBUG.tar
+
+
+
