@@ -5,9 +5,9 @@
 1. Clone project to new folder
 2. within that folder install with:
 
-```bash
-pip install -e .
-```
+    ```bash
+    pip install -e .
+    ```
 
 3. set default paths in ./configs/logreview.ini
 
@@ -34,6 +34,3 @@ options:
 
 ```bash
 python unpack.py -c 5723255 -f AOLogs_5723255_Collector_DEBUG.tar
-
-
-
