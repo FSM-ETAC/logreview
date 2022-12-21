@@ -1,6 +1,8 @@
 from time import strftime
+from tqdm import tqdm
 import pandas as pd
 import fnmatch, os, gzip, tarfile, shutil
+
 
 def prepare_target_path(target_path, customer_number):
     if not os.path.exists(target_path):
@@ -26,7 +28,8 @@ def unpack(root_path, target_path, customer_number, sample_tar):
         tar.extractall(customer_path)
 
     for root, _, files in os.walk(customer_path):
-        for filename in fnmatch.filter(files, pattern):
+        total_files=len(files)
+        for filename in tqdm(fnmatch.filter(files, pattern), desc='unpacking - ', total=total_files, unit=' files', leave=True):
             current_file=os.path.join(root, filename)
             target_file=os.path.join(root, os.path.splitext(filename)[0])
             with gzip.open(current_file, 'rb') as zip_in:

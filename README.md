@@ -6,10 +6,15 @@
 2. within that folder install with:
 
     ```bash
-    pip install -e .
+    pip install .
     ```
 
-3. set default paths in ./configs/logreview.ini
+3. set default paths tar files and extracted logs in ./configs/logreview.ini
+4. add a custom alias replacing <path_to_installed_unpack.py> with the path where step 2 was performed:
+
+    ```bash
+    echo "alias unpack=$(which python3) <path_to_installed_unpack.py>" >> ~/.zshrc
+    ```
 
 ### Install with testing
 
@@ -33,4 +38,4 @@ options:
 ## Example
 
 ```bash
-python unpack.py -c 5723255 -f AOLogs_5723255_Collector_DEBUG.tar
+unpack -c 5723255 -f AOLogs_5723255_Collector_DEBUG.tar
