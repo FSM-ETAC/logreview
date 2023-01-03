@@ -4,7 +4,7 @@ import pandas as pd
 import fnmatch, os, gzip, tarfile, shutil
 
 
-def prepare_target_path(target_path, customer_number):
+def prepare_test_path(target_path, customer_number):
     if not os.path.exists(target_path):
         os.mkdir(target_path)
 
@@ -22,7 +22,7 @@ def prepare_target_path(target_path, customer_number):
 
 def unpack(root_path, target_path, customer_number, sample_tar):
     pattern= '*.gz'
-    customer_path = prepare_target_path(target_path, customer_number)
+    customer_path = prepare_test_path(target_path, customer_number)
 
     with tarfile.open(os.path.join(root_path, sample_tar)) as tar:
         tar.extractall(customer_path)

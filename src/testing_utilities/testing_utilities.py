@@ -14,7 +14,7 @@ def LRtest_session():
     tempLogs_path = r'./tests/data/tempLogs'
     if os.path.exists(tempLogs_path):
         rmtree(tempLogs_path)
-    baseline_path = os.path.join(tempLogs_path, '1100299','AOLogs')
+    baseline_path = os.path.join(tempLogs_path, '1100299','AOLogs')  
     baseline_log = 'aAOLogs.tar'
     os.makedirs(baseline_path)
     with tarfile.open(os.path.join(base_path,baseline_log)) as tar:
