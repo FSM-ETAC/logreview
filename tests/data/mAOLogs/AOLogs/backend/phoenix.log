@@ -1,0 +1,323 @@
+2022-04-12T01:00:45.813193-07:00 sup64jpd phRuleWorker[2957788]: [PH_GENERIC_INFO]:[eventSeverity]=PHL_INFO,[procName]=phRuleWorker,[fileName]=phRuleWorker.cpp,[lineNumber]=203,[phLogDetail]=SDQ(678850-last thread):WQ empty, sleep ...
+2022-04-12T01:01:23.011089-07:00 sup64jpd phDataManager[2957793]: [PH_SYSTEM_STORED_EVENTS_PER_SEC]:[eventSeverity]=PHL_INFO,[procName]=phDataManager,[fileName]=EventLoader.cpp,[lineNumber]=263,[eventsPerSec]=0.108333,[peakEventsPerSec]=1.925000,[phLogDetail]=
+2022-04-12T01:01:23.011103-07:00 sup64jpd phDataManager[2957793]: [PH_SYSTEM_SUMM_EVENTS_STORED_EPS]:[eventSeverity]=PHL_INFO,[procName]=phDataManager,[fileName]=EventLoader.cpp,[lineNumber]=274,[durationMSec]=120000,[totEventCount]=4,[eventsPerSec]=0.033333,[phLogDetail]=
+2022-04-12T01:01:23.011111-07:00 sup64jpd phDataManager[2957793]: [PH_SYSTEM_EVENTS_VIA_ZMQ_EPS]:[eventSeverity]=PHL_INFO,[procName]=phDataManager,[fileName]=EventLoader.cpp,[lineNumber]=282,[durationMSec]=120000,[totEventCount]=0,[eventsPerSec]=0.000000,[phLogDetail]=
+2022-04-12T01:01:35.417964-07:00 sup64jpd phRuleMaster[2957784]: [PH_RULEMOD_PROFILE]:[eventSeverity]=PHL_INFO,[procName]=phRuleMaster,[fileName]=phRuleForest.cpp,[lineNumber]=386,[ruleName]=CLEAR_Cisco Unity Connection Failback Failed,[memTotalB]=0,[updateQueueSize]=0,[phLogDetail]=AggrCounts: 0, 
+2022-04-12T01:01:35.417977-07:00 sup64jpd phRuleMaster[2957784]: [PH_RULEMOD_PROFILE]:[eventSeverity]=PHL_INFO,[procName]=phRuleMaster,[fileName]=phRuleForest.cpp,[lineNumber]=386,[ruleName]=CLEAR_ES Coordinator Node Down,[memTotalB]=0,[updateQueueSize]=0,[phLogDetail]=AggrCounts: 0, 
+2022-04-12T01:01:35.417983-07:00 sup64jpd phRuleMaster[2957784]: [PH_RULEMOD_PROFILE]:[eventSeverity]=PHL_INFO,[procName]=phRuleMaster,[fileName]=phRuleForest.cpp,[lineNumber]=386,[ruleName]=CLEAR_Excessive Destination Windows DC Replication Failure,[memTotalB]=0,[updateQueueSize]=0,[phLogDetail]=AggrCounts: 0, 
+2022-04-12T01:01:35.417990-07:00 sup64jpd phRuleMaster[2957784]: [PH_RULEMOD_PROFILE]:[eventSeverity]=PHL_INFO,[procName]=phRuleMaster,[fileName]=phRuleForest.cpp,[lineNumber]=386,[ruleName]=CLEAR_Manual Service Started,[memTotalB]=0,[updateQueueSize]=0,[phLogDetail]=AggrCounts: 0, 
+2022-04-12T01:01:35.417996-07:00 sup64jpd phRuleMaster[2957784]: [PH_RULEMOD_PROFILE]:[eventSeverity]=PHL_INFO,[procName]=phRuleMaster,[fileName]=phRuleForest.cpp,[lineNumber]=386,[ruleName]=CLEAR_Server Down: No Ping Response,[memTotalB]=0,[updateQueueSize]=0,[phLogDetail]=AggrCounts: 0, 
+2022-04-12T01:01:35.418002-07:00 sup64jpd phRuleMaster[2957784]: [PH_RULEMOD_PROFILE]:[eventSeverity]=PHL_INFO,[procName]=phRuleMaster,[fileName]=phRuleForest.cpp,[lineNumber]=386,[ruleName]=Windows: Successful Overpass the Hash Attempt,[memTotalB]=0,[updateQueueSize]=0,[phLogDetail]=AggrCounts: 0, 
+2022-04-12T01:01:35.418008-07:00 sup64jpd phRuleMaster[2957784]: [PH_RULEMOD_PROFILE]:[eventSeverity]=PHL_INFO,[procName]=phRuleMaster,[fileName]=phRuleForest.cpp,[lineNumber]=386,[ruleName]=Windows: Obfuscated Powershell IEX invocation,[memTotalB]=0,[updateQueueSize]=0,[phLogDetail]=AggrCounts: 0, 
+2022-04-12T01:01:35.418014-07:00 sup64jpd phRuleMaster[2957784]: [PH_RULEMOD_PROFILE]:[eventSeverity]=PHL_INFO,[procName]=phRuleMaster,[fileName]=phRuleForest.cpp,[lineNumber]=386,[ruleName]=Linux: Potential DNS Tunneling via Iodine,[memTotalB]=0,[updateQueueSize]=0,[phLogDetail]=AggrCounts: 0, 
+2022-04-12T01:01:35.418019-07:00 sup64jpd phRuleMaster[2957784]: [PH_RULEMOD_PROFILE]:[eventSeverity]=PHL_INFO,[procName]=phRuleMaster,[fileName]=phRuleForest.cpp,[lineNumber]=386,[ruleName]=End User DNS Queries to Unauthorized DNS Servers,[memTotalB]=0,[updateQueueSize]=0,[phLogDetail]=AggrCounts: 0, 
+2022-04-12T01:01:35.418025-07:00 sup64jpd phRuleMaster[2957784]: [PH_RULEMOD_PROFILE]:[eventSeverity]=PHL_INFO,[procName]=phRuleMaster,[fileName]=phRuleForest.cpp,[lineNumber]=386,[ruleName]=Windows: Windows Network Enumeration,[memTotalB]=0,[updateQueueSize]=0,[phLogDetail]=AggrCounts: 0, 
+2022-04-12T01:01:42.751903-07:00 sup64jpd phParser[2958118]: [PH_SYSTEM_EVENTS_PER_SEC]:[eventSeverity]=PHL_INFO,[procName]=phParser,[fileName]=LicenseEnforce.cpp,[lineNumber]=555,[eventsPerSec]=0.005556,[peakEventsPerSec]=0.012500,[guaranteedEventsPerSec]=15000,[phLogDetail]=
+2022-04-12T01:01:42.751922-07:00 sup64jpd phParser[2958118]: [PH_SYSTEM_INTERNAL_EVENTS_PER_SEC]:[eventSeverity]=PHL_INFO,[procName]=phParser,[fileName]=LicenseEnforce.cpp,[lineNumber]=556,[eventsPerSec]=0.161111,[peakEventsPerSec]=22.600000,[phLogDetail]=
+2022-04-12T01:01:42.751933-07:00 sup64jpd phParser[2958118]: [PH_SYSTEM_PERF_EVENTS_PER_SEC]:[eventSeverity]=PHL_INFO,[procName]=phParser,[fileName]=LicenseEnforce.cpp,[lineNumber]=557,[eventsPerSec]=0.000000,[peakEventsPerSec]=0.016667,[phLogDetail]=
+2022-04-12T01:01:42.751947-07:00 sup64jpd phParser[2958118]: [PH_GENERIC_INFO]:[eventSeverity]=PHL_INFO,[procName]=phParser,[fileName]=LicenseEnforce.cpp,[lineNumber]=618,[phLogDetail]=Trigger EPS allocation by changes in unUsedEvents
+2022-04-12T01:02:25.825482-07:00 sup64jpd phRuleWorker[2957788]: [PH_GENERIC_INFO]:[eventSeverity]=PHL_INFO,[procName]=phRuleWorker,[fileName]=phRuleWorker.cpp,[lineNumber]=203,[phLogDetail]=SDQ(678851-last thread):WQ empty, sleep ...
+2022-04-12T01:02:35.825946-07:00 sup64jpd phRuleWorker[2957788]: [PH_GENERIC_INFO]:[eventSeverity]=PHL_INFO,[procName]=phRuleWorker,[fileName]=phRuleWorker.cpp,[lineNumber]=116,[phLogDetail]=Successfully establish connection to phRuleMaster at: 172.30.59.176 port: 7922
+2022-04-12T01:03:23.002865-07:00 sup64jpd phDataManager[2957793]: [PH_SYSTEM_STORED_EVENTS_PER_SEC]:[eventSeverity]=PHL_INFO,[procName]=phDataManager,[fileName]=EventLoader.cpp,[lineNumber]=263,[eventsPerSec]=0.266667,[peakEventsPerSec]=1.925000,[phLogDetail]=
+2022-04-12T01:03:23.002879-07:00 sup64jpd phDataManager[2957793]: [PH_SYSTEM_SUMM_EVENTS_STORED_EPS]:[eventSeverity]=PHL_INFO,[procName]=phDataManager,[fileName]=EventLoader.cpp,[lineNumber]=274,[durationMSec]=120000,[totEventCount]=4,[eventsPerSec]=0.033333,[phLogDetail]=
+2022-04-12T01:03:23.002885-07:00 sup64jpd phDataManager[2957793]: [PH_SYSTEM_EVENTS_VIA_ZMQ_EPS]:[eventSeverity]=PHL_INFO,[procName]=phDataManager,[fileName]=EventLoader.cpp,[lineNumber]=282,[durationMSec]=120000,[totEventCount]=0,[eventsPerSec]=0.000000,[phLogDetail]=
+2022-11-29T01:00:14.592847-08:00 CO-FSUP-01 phPerfMonitor[8411]: [PH_HTTP_RESPONSE_FAILURE]:[eventSeverity]=PHL_WARNING,[procName]=phPerfMonitor,[fileName]=phHttpClient.cpp,[lineNumber]=572,[errorNo]=401,[phLogDetail]=HTTP response code failure
+2022-11-29T01:00:14.592902-08:00 CO-FSUP-01 phPerfMonitor[8411]: [PH_HTTP_CLIENT_GET_INIT_RESPONSE_FAILED]:[eventSeverity]=PHL_ERROR,[procName]=phPerfMonitor,[fileName]=phHttpClient.cpp,[lineNumber]=928,[infoURL]=https://10.1.64.28/svn/revisions/1/3627370/install-software.xml,[phLogDetail]=Http client failed to get initial response from URL: https://10.1.64.28/svn/revisions/1/3627370/install-software.xml. Error response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+2022-11-29T01:00:14.592906-08:00 CO-FSUP-01 phPerfMonitor[8411]: <html><head>
+2022-11-29T01:00:14.592910-08:00 CO-FSUP-01 phPerfMonitor[8411]: <title>401 Unauthorized</title>
+2022-11-29T01:00:14.592913-08:00 CO-FSUP-01 phPerfMonitor[8411]: </head><body>
+2022-11-29T01:00:14.592916-08:00 CO-FSUP-01 phPerfMonitor[8411]: <h1>Unauthorized</h1>
+2022-11-29T01:00:14.592919-08:00 CO-FSUP-01 phPerfMonitor[8411]: <p>This server could not verify that you
+2022-11-29T01:00:14.592922-08:00 CO-FSUP-01 phPerfMonitor[8411]: are authorized to access the document
+2022-11-29T01:00:14.592925-08:00 CO-FSUP-01 phPerfMonitor[8411]: requested.  Either you supplied the wrong
+2022-11-29T01:00:14.592928-08:00 CO-FSUP-01 phPerfMonitor[8411]: credentials (e.g., bad password), or your
+2022-11-29T01:00:14.592932-08:00 CO-FSUP-01 phPerfMonitor[8411]: browser doesn't understand how to supply
+2022-11-29T01:00:14.592934-08:00 CO-FSUP-01 phPerfMonitor[8411]: the credentials required.</p>
+2022-11-29T01:00:14.592937-08:00 CO-FSUP-01 phPerfMonitor[8411]: </body></html>
+2022-11-29T01:01:05.005587-08:00 CO-FSUP-01 phDataManager[8371]: [PH_SYSTEM_STORED_EVENTS_PER_SEC]:[eventSeverity]=PHL_INFO,[procName]=phDataManager,[fileName]=EventLoader.cpp,[lineNumber]=275,[eventsPerSec]=1139.841667,[peakEventsPerSec]=17274.725000,[phLogDetail]=
+2022-11-29T01:01:05.005631-08:00 CO-FSUP-01 phDataManager[8371]: [PH_SYSTEM_SUMM_EVENTS_STORED_EPS]:[eventSeverity]=PHL_INFO,[procName]=phDataManager,[fileName]=EventLoader.cpp,[lineNumber]=286,[durationMSec]=120000,[totEventCount]=4625,[eventsPerSec]=38.541667,[phLogDetail]=
+2022-11-29T01:01:05.005654-08:00 CO-FSUP-01 phDataManager[8371]: [PH_SYSTEM_EVENTS_VIA_ZMQ_EPS]:[eventSeverity]=PHL_INFO,[procName]=phDataManager,[fileName]=EventLoader.cpp,[lineNumber]=294,[durationMSec]=120000,[totEventCount]=20,[eventsPerSec]=0.166667,[phLogDetail]=
+2022-11-29T01:01:05.259028-08:00 CO-FSUP-01 phIpIdentityWorker[8401]: [PH_IDENTITYWORKER_PROCESSING_EPS]:[eventSeverity]=PHL_INFO,[procName]=phIpIdentityWorker,[fileName]=phIpIdentityWorker.cpp,[lineNumber]=177,[eventsPerSec]=1133.600000,[phLogDetail]=
+2022-11-29T01:01:15.686066-08:00 CO-FSUP-01 phPerfMonitor[8411]: [PH_HTTP_RESPONSE_FAILURE]:[eventSeverity]=PHL_WARNING,[procName]=phPerfMonitor,[fileName]=phHttpClient.cpp,[lineNumber]=572,[errorNo]=401,[phLogDetail]=HTTP response code failure
+2022-11-29T01:01:15.686127-08:00 CO-FSUP-01 phPerfMonitor[8411]: [PH_HTTP_CLIENT_GET_INIT_RESPONSE_FAILED]:[eventSeverity]=PHL_ERROR,[procName]=phPerfMonitor,[fileName]=phHttpClient.cpp,[lineNumber]=928,[infoURL]=https://10.1.64.28/svn/revisions/1/3627370/install-software.xml,[phLogDetail]=Http client failed to get initial response from URL: https://10.1.64.28/svn/revisions/1/3627370/install-software.xml. Error response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+2022-11-29T01:01:15.686132-08:00 CO-FSUP-01 phPerfMonitor[8411]: <html><head>
+2022-11-29T01:01:15.686138-08:00 CO-FSUP-01 phPerfMonitor[8411]: <title>401 Unauthorized</title>
+2022-11-29T01:01:15.686141-08:00 CO-FSUP-01 phPerfMonitor[8411]: </head><body>
+2022-11-29T01:01:15.686144-08:00 CO-FSUP-01 phPerfMonitor[8411]: <h1>Unauthorized</h1>
+2022-11-29T01:01:15.686147-08:00 CO-FSUP-01 phPerfMonitor[8411]: <p>This server could not verify that you
+2022-11-29T01:01:15.686150-08:00 CO-FSUP-01 phPerfMonitor[8411]: are authorized to access the document
+2022-11-29T01:01:15.686153-08:00 CO-FSUP-01 phPerfMonitor[8411]: requested.  Either you supplied the wrong
+2022-11-29T01:01:15.686156-08:00 CO-FSUP-01 phPerfMonitor[8411]: credentials (e.g., bad password), or your
+2022-11-29T01:01:15.686159-08:00 CO-FSUP-01 phPerfMonitor[8411]: browser doesn't understand how to supply
+2022-11-29T01:01:15.686162-08:00 CO-FSUP-01 phPerfMonitor[8411]: the credentials required.</p>
+2022-11-29T01:01:15.686165-08:00 CO-FSUP-01 phPerfMonitor[8411]: </body></html>
+2022-11-29T01:02:16.802619-08:00 CO-FSUP-01 phPerfMonitor[8411]: [PH_HTTP_RESPONSE_FAILURE]:[eventSeverity]=PHL_WARNING,[procName]=phPerfMonitor,[fileName]=phHttpClient.cpp,[lineNumber]=572,[errorNo]=401,[phLogDetail]=HTTP response code failure
+2022-11-29T01:02:16.802677-08:00 CO-FSUP-01 phPerfMonitor[8411]: [PH_HTTP_CLIENT_GET_INIT_RESPONSE_FAILED]:[eventSeverity]=PHL_ERROR,[procName]=phPerfMonitor,[fileName]=phHttpClient.cpp,[lineNumber]=928,[infoURL]=https://10.1.64.28/svn/revisions/1/3627370/install-software.xml,[phLogDetail]=Http client failed to get initial response from URL: https://10.1.64.28/svn/revisions/1/3627370/install-software.xml. Error response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+2022-11-29T01:02:16.802682-08:00 CO-FSUP-01 phPerfMonitor[8411]: <html><head>
+2022-11-29T01:02:16.802685-08:00 CO-FSUP-01 phPerfMonitor[8411]: <title>401 Unauthorized</title>
+2022-11-29T01:02:16.802688-08:00 CO-FSUP-01 phPerfMonitor[8411]: </head><body>
+2022-11-29T01:02:16.802691-08:00 CO-FSUP-01 phPerfMonitor[8411]: <h1>Unauthorized</h1>
+2022-11-29T01:02:16.802695-08:00 CO-FSUP-01 phPerfMonitor[8411]: <p>This server could not verify that you
+2022-11-29T01:02:16.802698-08:00 CO-FSUP-01 phPerfMonitor[8411]: are authorized to access the document
+2022-11-29T01:02:16.802700-08:00 CO-FSUP-01 phPerfMonitor[8411]: requested.  Either you supplied the wrong
+2022-11-29T01:02:16.802703-08:00 CO-FSUP-01 phPerfMonitor[8411]: credentials (e.g., bad password), or your
+2022-11-29T01:02:16.802706-08:00 CO-FSUP-01 phPerfMonitor[8411]: browser doesn't understand how to supply
+2022-11-29T01:02:16.802713-08:00 CO-FSUP-01 phPerfMonitor[8411]: the credentials required.</p>
+2022-11-29T01:02:16.802716-08:00 CO-FSUP-01 phPerfMonitor[8411]: </body></html>
+2022-11-29T01:02:42.975485-08:00 CO-FSUP-01 phParser[10136]: [PH_SYSTEM_EVENTS_PER_SEC]:[eventSeverity]=PHL_INFO,[procName]=phParser,[fileName]=LicenseEnforce.cpp,[lineNumber]=555,[eventsPerSec]=1092.766667,[peakEventsPerSec]=1169.300000,[guaranteedEventsPerSec]=6000,[phLogDetail]=
+2022-11-29T01:02:42.975508-08:00 CO-FSUP-01 phParser[10136]: [PH_SYSTEM_INTERNAL_EVENTS_PER_SEC]:[eventSeverity]=PHL_INFO,[procName]=phParser,[fileName]=LicenseEnforce.cpp,[lineNumber]=556,[eventsPerSec]=12.327778,[peakEventsPerSec]=71.470000,[phLogDetail]=
+2022-11-29T01:02:42.975519-08:00 CO-FSUP-01 phParser[10136]: [PH_SYSTEM_PERF_EVENTS_PER_SEC]:[eventSeverity]=PHL_INFO,[procName]=phParser,[fileName]=LicenseEnforce.cpp,[lineNumber]=557,[eventsPerSec]=63.116667,[peakEventsPerSec]=224.800000,[phLogDetail]=
+2022-11-29T01:03:05.002257-08:00 CO-FSUP-01 phDataManager[8371]: [PH_SYSTEM_STORED_EVENTS_PER_SEC]:[eventSeverity]=PHL_INFO,[procName]=phDataManager,[fileName]=EventLoader.cpp,[lineNumber]=275,[eventsPerSec]=1141.833333,[peakEventsPerSec]=17274.725000,[phLogDetail]=
+2022-11-29T01:03:05.002335-08:00 CO-FSUP-01 phDataManager[8371]: [PH_SYSTEM_SUMM_EVENTS_STORED_EPS]:[eventSeverity]=PHL_INFO,[procName]=phDataManager,[fileName]=EventLoader.cpp,[lineNumber]=286,[durationMSec]=120000,[totEventCount]=4341,[eventsPerSec]=36.175000,[phLogDetail]=
+2022-11-29T01:03:05.002359-08:00 CO-FSUP-01 phDataManager[8371]: [PH_SYSTEM_EVENTS_VIA_ZMQ_EPS]:[eventSeverity]=PHL_INFO,[procName]=phDataManager,[fileName]=EventLoader.cpp,[lineNumber]=294,[durationMSec]=120000,[totEventCount]=26,[eventsPerSec]=0.216667,[phLogDetail]=
+2022-11-29T01:03:05.462965-08:00 CO-FSUP-01 phIpIdentityWorker[8401]: [PH_IDENTITYWORKER_PROCESSING_EPS]:[eventSeverity]=PHL_INFO,[procName]=phIpIdentityWorker,[fileName]=phIpIdentityWorker.cpp,[lineNumber]=177,[eventsPerSec]=1140.591667,[phLogDetail]=
+2022-11-29T01:03:18.035803-08:00 CO-FSUP-01 phPerfMonitor[8411]: [PH_HTTP_RESPONSE_FAILURE]:[eventSeverity]=PHL_WARNING,[procName]=phPerfMonitor,[fileName]=phHttpClient.cpp,[lineNumber]=572,[errorNo]=401,[phLogDetail]=HTTP response code failure
+2022-11-29T01:03:18.035849-08:00 CO-FSUP-01 phPerfMonitor[8411]: [PH_HTTP_CLIENT_GET_INIT_RESPONSE_FAILED]:[eventSeverity]=PHL_ERROR,[procName]=phPerfMonitor,[fileName]=phHttpClient.cpp,[lineNumber]=928,[infoURL]=https://10.1.64.28/svn/revisions/1/3627370/install-software.xml,[phLogDetail]=Http client failed to get initial response from URL: https://10.1.64.28/svn/revisions/1/3627370/install-software.xml. Error response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+2022-11-29T01:03:18.035853-08:00 CO-FSUP-01 phPerfMonitor[8411]: <html><head>
+2022-11-29T01:03:18.035856-08:00 CO-FSUP-01 phPerfMonitor[8411]: <title>401 Unauthorized</title>
+2022-11-29T01:03:18.035859-08:00 CO-FSUP-01 phPerfMonitor[8411]: </head><body>
+2022-11-29T01:03:18.035862-08:00 CO-FSUP-01 phPerfMonitor[8411]: <h1>Unauthorized</h1>
+2022-11-29T01:03:18.035865-08:00 CO-FSUP-01 phPerfMonitor[8411]: <p>This server could not verify that you
+2022-11-29T01:03:18.035868-08:00 CO-FSUP-01 phPerfMonitor[8411]: are authorized to access the document
+2022-11-29T01:03:18.035870-08:00 CO-FSUP-01 phPerfMonitor[8411]: requested.  Either you supplied the wrong
+2022-11-29T01:03:18.035874-08:00 CO-FSUP-01 phPerfMonitor[8411]: credentials (e.g., bad password), or your
+2022-11-29T01:03:18.035876-08:00 CO-FSUP-01 phPerfMonitor[8411]: browser doesn't understand how to supply
+2022-11-29T01:03:18.035879-08:00 CO-FSUP-01 phPerfMonitor[8411]: the credentials required.</p>
+2022-11-29T01:03:18.035881-08:00 CO-FSUP-01 phPerfMonitor[8411]: </body></html>
+2022-11-29T01:03:23.457426-08:00 CO-FSUP-01 phRuleWorker[8361]: [PH_GENERIC_INFO]:[eventSeverity]=PHL_INFO,[procName]=phRuleWorker,[fileName]=phRuleWorker.cpp,[lineNumber]=116,[phLogDetail]=Successfully establish connection to phRuleMaster at: 10.1.64.28 port: 7922
+2022-11-29T01:03:53.142980-08:00 CO-FSUP-01 phRuleWorker[8361]: [PH_GENERIC_INFO]:[eventSeverity]=PHL_INFO,[procName]=phRuleWorker,[fileName]=phRuleWorker.cpp,[lineNumber]=116,[phLogDetail]=Successfully establish connection to phRuleMaster at: 10.1.64.28 port: 7922
+2022-11-29T01:04:19.284044-08:00 CO-FSUP-01 phPerfMonitor[8411]: [PH_HTTP_RESPONSE_FAILURE]:[eventSeverity]=PHL_WARNING,[procName]=phPerfMonitor,[fileName]=phHttpClient.cpp,[lineNumber]=572,[errorNo]=401,[phLogDetail]=HTTP response code failure
+2022-11-29T01:04:19.284097-08:00 CO-FSUP-01 phPerfMonitor[8411]: [PH_HTTP_CLIENT_GET_INIT_RESPONSE_FAILED]:[eventSeverity]=PHL_ERROR,[procName]=phPerfMonitor,[fileName]=phHttpClient.cpp,[lineNumber]=928,[infoURL]=https://10.1.64.28/svn/revisions/1/3627370/install-software.xml,[phLogDetail]=Http client failed to get initial response from URL: https://10.1.64.28/svn/revisions/1/3627370/install-software.xml. Error response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+2022-11-29T01:04:19.284102-08:00 CO-FSUP-01 phPerfMonitor[8411]: <html><head>
+2022-11-29T01:04:19.284105-08:00 CO-FSUP-01 phPerfMonitor[8411]: <title>401 Unauthorized</title>
+2022-11-29T01:04:19.284108-08:00 CO-FSUP-01 phPerfMonitor[8411]: </head><body>
+2022-11-29T01:04:19.284110-08:00 CO-FSUP-01 phPerfMonitor[8411]: <h1>Unauthorized</h1>
+2022-11-29T01:04:19.284113-08:00 CO-FSUP-01 phPerfMonitor[8411]: <p>This server could not verify that you
+2022-11-29T01:04:19.284116-08:00 CO-FSUP-01 phPerfMonitor[8411]: are authorized to access the document
+2022-11-29T01:04:19.284119-08:00 CO-FSUP-01 phPerfMonitor[8411]: requested.  Either you supplied the wrong
+2022-11-29T01:04:19.284121-08:00 CO-FSUP-01 phPerfMonitor[8411]: credentials (e.g., bad password), or your
+2022-11-29T01:04:19.284124-08:00 CO-FSUP-01 phPerfMonitor[8411]: browser doesn't understand how to supply
+2022-11-29T01:04:19.284127-08:00 CO-FSUP-01 phPerfMonitor[8411]: the credentials required.</p>
+2022-11-29T01:04:19.284130-08:00 CO-FSUP-01 phPerfMonitor[8411]: </body></html>
+2022-11-29T01:05:05.001548-08:00 CO-FSUP-01 phDataManager[8371]: [PH_SYSTEM_STORED_EVENTS_PER_SEC]:[eventSeverity]=PHL_INFO,[procName]=phDataManager,[fileName]=EventLoader.cpp,[lineNumber]=275,[eventsPerSec]=1154.333333,[peakEventsPerSec]=17274.725000,[phLogDetail]=
+2022-11-29T01:05:05.001584-08:00 CO-FSUP-01 phDataManager[8371]: [PH_SYSTEM_SUMM_EVENTS_STORED_EPS]:[eventSeverity]=PHL_INFO,[procName]=phDataManager,[fileName]=EventLoader.cpp,[lineNumber]=286,[durationMSec]=120000,[totEventCount]=5093,[eventsPerSec]=42.441667,[phLogDetail]=
+2022-11-29T01:05:05.001602-08:00 CO-FSUP-01 phDataManager[8371]: [PH_SYSTEM_EVENTS_VIA_ZMQ_EPS]:[eventSeverity]=PHL_INFO,[procName]=phDataManager,[fileName]=EventLoader.cpp,[lineNumber]=294,[durationMSec]=120000,[totEventCount]=16,[eventsPerSec]=0.133333,[phLogDetail]=
+2022-11-29T01:05:05.030687-08:00 CO-FSUP-01 phIpIdentityWorker[8401]: [PH_IDENTITYWORKER_PROCESSING_EPS]:[eventSeverity]=PHL_INFO,[procName]=phIpIdentityWorker,[fileName]=phIpIdentityWorker.cpp,[lineNumber]=177,[eventsPerSec]=1147.775000,[phLogDetail]=
+2022-11-29T01:05:20.571283-08:00 CO-FSUP-01 phPerfMonitor[8411]: [PH_HTTP_RESPONSE_FAILURE]:[eventSeverity]=PHL_WARNING,[procName]=phPerfMonitor,[fileName]=phHttpClient.cpp,[lineNumber]=572,[errorNo]=401,[phLogDetail]=HTTP response code failure
+2022-11-29T01:05:20.571363-08:00 CO-FSUP-01 phPerfMonitor[8411]: [PH_HTTP_CLIENT_GET_INIT_RESPONSE_FAILED]:[eventSeverity]=PHL_ERROR,[procName]=phPerfMonitor,[fileName]=phHttpClient.cpp,[lineNumber]=928,[infoURL]=https://10.1.64.28/svn/revisions/1/3627370/install-software.xml,[phLogDetail]=Http client failed to get initial response from URL: https://10.1.64.28/svn/revisions/1/3627370/install-software.xml. Error response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+2022-11-29T01:05:20.571381-08:00 CO-FSUP-01 phPerfMonitor[8411]: <html><head>
+2022-11-29T01:05:20.571388-08:00 CO-FSUP-01 phPerfMonitor[8411]: <title>401 Unauthorized</title>
+2022-11-29T01:05:20.571393-08:00 CO-FSUP-01 phPerfMonitor[8411]: </head><body>
+2022-11-29T01:05:20.571398-08:00 CO-FSUP-01 phPerfMonitor[8411]: <h1>Unauthorized</h1>
+2022-11-29T01:05:20.571403-08:00 CO-FSUP-01 phPerfMonitor[8411]: <p>This server could not verify that you
+2022-11-29T01:05:20.571408-08:00 CO-FSUP-01 phPerfMonitor[8411]: are authorized to access the document
+2022-11-29T01:05:20.571413-08:00 CO-FSUP-01 phPerfMonitor[8411]: requested.  Either you supplied the wrong
+2022-11-29T01:05:20.571418-08:00 CO-FSUP-01 phPerfMonitor[8411]: credentials (e.g., bad password), or your
+2022-11-29T01:05:20.571423-08:00 CO-FSUP-01 phPerfMonitor[8411]: browser doesn't understand how to supply
+2022-11-29T01:05:20.571427-08:00 CO-FSUP-01 phPerfMonitor[8411]: the credentials required.</p>
+2022-11-29T01:05:20.571432-08:00 CO-FSUP-01 phPerfMonitor[8411]: </body></html>
+2022-11-29T01:05:33.933597-08:00 CO-FSUP-01 phRuleMaster[82008]: [PH_RULEMOD_PROFILE]:[eventSeverity]=PHL_INFO,[procName]=phRuleMaster,[fileName]=phRuleForest.cpp,[lineNumber]=386,[ruleName]=Heavy TCP Host Scan On Fixed Port,[memTotalB]=8063142,[updateQueueSize]=1,[phLogDetail]=AggrCounts: 3646, 
+2022-11-29T01:05:33.933645-08:00 CO-FSUP-01 phRuleMaster[82008]: [PH_RULEMOD_PROFILE]:[eventSeverity]=PHL_INFO,[procName]=phRuleMaster,[fileName]=phRuleForest.cpp,[lineNumber]=386,[ruleName]=TCP DDOS Attack,[memTotalB]=4654267,[updateQueueSize]=1,[phLogDetail]=AggrCounts: 1753, 
+2022-11-29T01:05:33.933671-08:00 CO-FSUP-01 phRuleMaster[82008]: [PH_RULEMOD_PROFILE]:[eventSeverity]=PHL_INFO,[procName]=phRuleMaster,[fileName]=phRuleForest.cpp,[lineNumber]=386,[ruleName]=Heavy UDP Port Scan: Single Host,[memTotalB]=4607806,[updateQueueSize]=1,[phLogDetail]=AggrCounts: 1838, 
+2022-11-29T01:05:33.933696-08:00 CO-FSUP-01 phRuleMaster[82008]: [PH_RULEMOD_PROFILE]:[eventSeverity]=PHL_INFO,[procName]=phRuleMaster,[fileName]=phRuleForest.cpp,[lineNumber]=386,[ruleName]=Heavy TCP Host Scan,[memTotalB]=3534428,[updateQueueSize]=1,[phLogDetail]=AggrCounts: 979, 
+2022-11-29T01:05:33.933720-08:00 CO-FSUP-01 phRuleMaster[82008]: [PH_RULEMOD_PROFILE]:[eventSeverity]=PHL_INFO,[procName]=phRuleMaster,[fileName]=phRuleForest.cpp,[lineNumber]=386,[ruleName]=Heavy UDP Host Scan On Fixed Port,[memTotalB]=3401214,[updateQueueSize]=1,[phLogDetail]=AggrCounts: 1317, 
+2022-11-29T01:05:33.933752-08:00 CO-FSUP-01 phRuleMaster[82008]: [PH_RULEMOD_PROFILE]:[eventSeverity]=PHL_INFO,[procName]=phRuleMaster,[fileName]=phRuleForest.cpp,[lineNumber]=386,[ruleName]=Heavy UDP Host Scan,[memTotalB]=3015130,[updateQueueSize]=1,[phLogDetail]=AggrCounts: 1045, 
+2022-11-29T01:05:33.933784-08:00 CO-FSUP-01 phRuleMaster[82008]: [PH_RULEMOD_PROFILE]:[eventSeverity]=PHL_INFO,[procName]=phRuleMaster,[fileName]=phRuleForest.cpp,[lineNumber]=386,[ruleName]=Excessive Denied Connections From Same Src,[memTotalB]=961303,[updateQueueSize]=1,[phLogDetail]=AggrCounts: 340, 
+2022-11-29T01:05:33.933815-08:00 CO-FSUP-01 phRuleMaster[82008]: [PH_RULEMOD_PROFILE]:[eventSeverity]=PHL_INFO,[procName]=phRuleMaster,[fileName]=phRuleForest.cpp,[lineNumber]=386,[ruleName]=End User DNS Queries to Unauthorized DNS Servers,[memTotalB]=673121,[updateQueueSize]=1,[phLogDetail]=AggrCounts: 254, 
+2022-11-29T01:05:33.933847-08:00 CO-FSUP-01 phRuleMaster[82008]: [PH_RULEMOD_PROFILE]:[eventSeverity]=PHL_INFO,[procName]=phRuleMaster,[fileName]=phRuleForest.cpp,[lineNumber]=386,[ruleName]=Excessive Denied Connections To Same Destination,[memTotalB]=542339,[updateQueueSize]=1,[phLogDetail]=AggrCounts: 234, 
+2022-11-29T01:05:33.933878-08:00 CO-FSUP-01 phRuleMaster[82008]: [PH_RULEMOD_PROFILE]:[eventSeverity]=PHL_INFO,[procName]=phRuleMaster,[fileName]=phRuleForest.cpp,[lineNumber]=386,[ruleName]=Sudden Increase in Network Interface Errors,[memTotalB]=268698,[updateQueueSize]=1,[phLogDetail]=AggrCounts: 1447, 
+2022-11-29T01:05:42.074098-08:00 CO-FSUP-01 phParser[10136]: [PH_SYSTEM_EVENTS_PER_SEC]:[eventSeverity]=PHL_INFO,[procName]=phParser,[fileName]=LicenseEnforce.cpp,[lineNumber]=555,[eventsPerSec]=1109.305556,[peakEventsPerSec]=1396.000000,[guaranteedEventsPerSec]=6000,[phLogDetail]=
+2022-11-29T01:05:42.074123-08:00 CO-FSUP-01 phParser[10136]: [PH_SYSTEM_INTERNAL_EVENTS_PER_SEC]:[eventSeverity]=PHL_INFO,[procName]=phParser,[fileName]=LicenseEnforce.cpp,[lineNumber]=556,[eventsPerSec]=10.477778,[peakEventsPerSec]=71.470000,[phLogDetail]=
+2022-11-29T01:05:42.074133-08:00 CO-FSUP-01 phParser[10136]: [PH_SYSTEM_PERF_EVENTS_PER_SEC]:[eventSeverity]=PHL_INFO,[procName]=phParser,[fileName]=LicenseEnforce.cpp,[lineNumber]=557,[eventsPerSec]=65.616667,[peakEventsPerSec]=224.800000,[phLogDetail]=
+2022-11-29T01:06:21.650871-08:00 CO-FSUP-01 phPerfMonitor[8411]: [PH_HTTP_RESPONSE_FAILURE]:[eventSeverity]=PHL_WARNING,[procName]=phPerfMonitor,[fileName]=phHttpClient.cpp,[lineNumber]=572,[errorNo]=401,[phLogDetail]=HTTP response code failure
+2022-11-29T01:06:21.650946-08:00 CO-FSUP-01 phPerfMonitor[8411]: [PH_HTTP_CLIENT_GET_INIT_RESPONSE_FAILED]:[eventSeverity]=PHL_ERROR,[procName]=phPerfMonitor,[fileName]=phHttpClient.cpp,[lineNumber]=928,[infoURL]=https://10.1.64.28/svn/revisions/1/3627370/install-software.xml,[phLogDetail]=Http client failed to get initial response from URL: https://10.1.64.28/svn/revisions/1/3627370/install-software.xml. Error response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+2022-11-29T01:06:21.650952-08:00 CO-FSUP-01 phPerfMonitor[8411]: <html><head>
+2022-11-29T01:06:21.650956-08:00 CO-FSUP-01 phPerfMonitor[8411]: <title>401 Unauthorized</title>
+2022-11-29T01:06:21.650959-08:00 CO-FSUP-01 phPerfMonitor[8411]: </head><body>
+2022-11-29T01:06:21.650963-08:00 CO-FSUP-01 phPerfMonitor[8411]: <h1>Unauthorized</h1>
+2022-11-29T01:06:21.650966-08:00 CO-FSUP-01 phPerfMonitor[8411]: <p>This server could not verify that you
+2022-11-29T01:06:21.650970-08:00 CO-FSUP-01 phPerfMonitor[8411]: are authorized to access the document
+2022-11-29T01:06:21.650973-08:00 CO-FSUP-01 phPerfMonitor[8411]: requested.  Either you supplied the wrong
+2022-11-29T01:06:21.650977-08:00 CO-FSUP-01 phPerfMonitor[8411]: credentials (e.g., bad password), or your
+2022-11-29T01:06:21.650980-08:00 CO-FSUP-01 phPerfMonitor[8411]: browser doesn't understand how to supply
+2022-11-29T01:06:21.650983-08:00 CO-FSUP-01 phPerfMonitor[8411]: the credentials required.</p>
+2022-11-29T01:06:21.650986-08:00 CO-FSUP-01 phPerfMonitor[8411]: </body></html>
+2022-11-29T01:07:05.009905-08:00 CO-FSUP-01 phDataManager[8371]: [PH_SYSTEM_STORED_EVENTS_PER_SEC]:[eventSeverity]=PHL_INFO,[procName]=phDataManager,[fileName]=EventLoader.cpp,[lineNumber]=275,[eventsPerSec]=1204.700000,[peakEventsPerSec]=17274.725000,[phLogDetail]=
+2022-11-29T01:07:05.009931-08:00 CO-FSUP-01 phDataManager[8371]: [PH_SYSTEM_SUMM_EVENTS_STORED_EPS]:[eventSeverity]=PHL_INFO,[procName]=phDataManager,[fileName]=EventLoader.cpp,[lineNumber]=286,[durationMSec]=120000,[totEventCount]=5088,[eventsPerSec]=42.400000,[phLogDetail]=
+2022-11-29T01:07:05.009942-08:00 CO-FSUP-01 phDataManager[8371]: [PH_SYSTEM_EVENTS_VIA_ZMQ_EPS]:[eventSeverity]=PHL_INFO,[procName]=phDataManager,[fileName]=EventLoader.cpp,[lineNumber]=294,[durationMSec]=120000,[totEventCount]=24,[eventsPerSec]=0.200000,[phLogDetail]=
+2022-11-29T01:07:05.109338-08:00 CO-FSUP-01 phIpIdentityWorker[8401]: [PH_IDENTITYWORKER_PROCESSING_EPS]:[eventSeverity]=PHL_INFO,[procName]=phIpIdentityWorker,[fileName]=phIpIdentityWorker.cpp,[lineNumber]=177,[eventsPerSec]=1205.016667,[phLogDetail]=
+2022-11-29T01:07:22.772653-08:00 CO-FSUP-01 phPerfMonitor[8411]: [PH_HTTP_RESPONSE_FAILURE]:[eventSeverity]=PHL_WARNING,[procName]=phPerfMonitor,[fileName]=phHttpClient.cpp,[lineNumber]=572,[errorNo]=401,[phLogDetail]=HTTP response code failure
+2022-11-29T01:07:22.772718-08:00 CO-FSUP-01 phPerfMonitor[8411]: [PH_HTTP_CLIENT_GET_INIT_RESPONSE_FAILED]:[eventSeverity]=PHL_ERROR,[procName]=phPerfMonitor,[fileName]=phHttpClient.cpp,[lineNumber]=928,[infoURL]=https://10.1.64.28/svn/revisions/1/3627370/install-software.xml,[phLogDetail]=Http client failed to get initial response from URL: https://10.1.64.28/svn/revisions/1/3627370/install-software.xml. Error response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+2022-11-29T01:07:22.772722-08:00 CO-FSUP-01 phPerfMonitor[8411]: <html><head>
+2022-11-29T01:07:22.772727-08:00 CO-FSUP-01 phPerfMonitor[8411]: <title>401 Unauthorized</title>
+2022-11-29T01:07:22.772730-08:00 CO-FSUP-01 phPerfMonitor[8411]: </head><body>
+2022-11-29T01:07:22.772734-08:00 CO-FSUP-01 phPerfMonitor[8411]: <h1>Unauthorized</h1>
+2022-11-29T01:07:22.772737-08:00 CO-FSUP-01 phPerfMonitor[8411]: <p>This server could not verify that you
+2022-11-29T01:07:22.772741-08:00 CO-FSUP-01 phPerfMonitor[8411]: are authorized to access the document
+2022-11-29T01:07:22.772744-08:00 CO-FSUP-01 phPerfMonitor[8411]: requested.  Either you supplied the wrong
+2022-11-29T01:07:22.772748-08:00 CO-FSUP-01 phPerfMonitor[8411]: credentials (e.g., bad password), or your
+2022-11-29T01:07:22.772752-08:00 CO-FSUP-01 phPerfMonitor[8411]: browser doesn't understand how to supply
+2022-11-29T01:07:22.772755-08:00 CO-FSUP-01 phPerfMonitor[8411]: the credentials required.</p>
+2022-11-29T01:07:22.772759-08:00 CO-FSUP-01 phPerfMonitor[8411]: </body></html>
+2022-11-29T01:08:23.928063-08:00 CO-FSUP-01 phPerfMonitor[8411]: [PH_HTTP_RESPONSE_FAILURE]:[eventSeverity]=PHL_WARNING,[procName]=phPerfMonitor,[fileName]=phHttpClient.cpp,[lineNumber]=572,[errorNo]=401,[phLogDetail]=HTTP response code failure
+2022-11-29T01:08:23.928169-08:00 CO-FSUP-01 phPerfMonitor[8411]: [PH_HTTP_CLIENT_GET_INIT_RESPONSE_FAILED]:[eventSeverity]=PHL_ERROR,[procName]=phPerfMonitor,[fileName]=phHttpClient.cpp,[lineNumber]=928,[infoURL]=https://10.1.64.28/svn/revisions/1/3627370/install-software.xml,[phLogDetail]=Http client failed to get initial response from URL: https://10.1.64.28/svn/revisions/1/3627370/install-software.xml. Error response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+2022-11-29T01:08:23.928178-08:00 CO-FSUP-01 phPerfMonitor[8411]: <html><head>
+2022-11-29T01:08:23.928185-08:00 CO-FSUP-01 phPerfMonitor[8411]: <title>401 Unauthorized</title>
+2022-11-29T01:08:23.928192-08:00 CO-FSUP-01 phPerfMonitor[8411]: </head><body>
+2022-11-29T01:08:23.928198-08:00 CO-FSUP-01 phPerfMonitor[8411]: <h1>Unauthorized</h1>
+2022-11-29T01:08:23.928206-08:00 CO-FSUP-01 phPerfMonitor[8411]: <p>This server could not verify that you
+2022-11-29T01:08:23.928213-08:00 CO-FSUP-01 phPerfMonitor[8411]: are authorized to access the document
+2022-11-29T01:08:23.928220-08:00 CO-FSUP-01 phPerfMonitor[8411]: requested.  Either you supplied the wrong
+2022-11-29T01:08:23.928226-08:00 CO-FSUP-01 phPerfMonitor[8411]: credentials (e.g., bad password), or your
+2022-11-29T01:08:23.928233-08:00 CO-FSUP-01 phPerfMonitor[8411]: browser doesn't understand how to supply
+2022-11-29T01:08:23.928240-08:00 CO-FSUP-01 phPerfMonitor[8411]: the credentials required.</p>
+2022-11-29T01:08:23.928246-08:00 CO-FSUP-01 phPerfMonitor[8411]: </body></html>
+2022-11-29T01:08:42.178029-08:00 CO-FSUP-01 phParser[10136]: [PH_SYSTEM_EVENTS_PER_SEC]:[eventSeverity]=PHL_INFO,[procName]=phParser,[fileName]=LicenseEnforce.cpp,[lineNumber]=555,[eventsPerSec]=1152.494444,[peakEventsPerSec]=1268.000000,[guaranteedEventsPerSec]=6000,[phLogDetail]=
+2022-11-29T01:08:42.178052-08:00 CO-FSUP-01 phParser[10136]: [PH_SYSTEM_INTERNAL_EVENTS_PER_SEC]:[eventSeverity]=PHL_INFO,[procName]=phParser,[fileName]=LicenseEnforce.cpp,[lineNumber]=556,[eventsPerSec]=12.350000,[peakEventsPerSec]=71.470000,[phLogDetail]=
+2022-11-29T01:08:42.178063-08:00 CO-FSUP-01 phParser[10136]: [PH_SYSTEM_PERF_EVENTS_PER_SEC]:[eventSeverity]=PHL_INFO,[procName]=phParser,[fileName]=LicenseEnforce.cpp,[lineNumber]=557,[eventsPerSec]=61.266667,[peakEventsPerSec]=224.800000,[phLogDetail]=
+2022-11-29T01:08:54.850362-08:00 CO-FSUP-01 phRuleWorker[8361]: [PH_GENERIC_INFO]:[eventSeverity]=PHL_INFO,[procName]=phRuleWorker,[fileName]=phRuleWorker.cpp,[lineNumber]=116,[phLogDetail]=Successfully establish connection to phRuleMaster at: 10.1.64.28 port: 7922
+2022-11-29T01:09:05.008972-08:00 CO-FSUP-01 phDataManager[8371]: [PH_SYSTEM_STORED_EVENTS_PER_SEC]:[eventSeverity]=PHL_INFO,[procName]=phDataManager,[fileName]=EventLoader.cpp,[lineNumber]=275,[eventsPerSec]=1109.958333,[peakEventsPerSec]=17274.725000,[phLogDetail]=
+2022-11-29T01:09:05.009012-08:00 CO-FSUP-01 phDataManager[8371]: [PH_SYSTEM_SUMM_EVENTS_STORED_EPS]:[eventSeverity]=PHL_INFO,[procName]=phDataManager,[fileName]=EventLoader.cpp,[lineNumber]=286,[durationMSec]=120000,[totEventCount]=4177,[eventsPerSec]=34.808333,[phLogDetail]=
+2022-11-29T01:09:05.009034-08:00 CO-FSUP-01 phDataManager[8371]: [PH_SYSTEM_EVENTS_VIA_ZMQ_EPS]:[eventSeverity]=PHL_INFO,[procName]=phDataManager,[fileName]=EventLoader.cpp,[lineNumber]=294,[durationMSec]=120000,[totEventCount]=10,[eventsPerSec]=0.083333,[phLogDetail]=
+2022-11-29T01:09:05.245096-08:00 CO-FSUP-01 phIpIdentityWorker[8401]: [PH_IDENTITYWORKER_PROCESSING_EPS]:[eventSeverity]=PHL_INFO,[procName]=phIpIdentityWorker,[fileName]=phIpIdentityWorker.cpp,[lineNumber]=177,[eventsPerSec]=1108.383333,[phLogDetail]=
+2022-11-29T01:09:25.034955-08:00 CO-FSUP-01 phPerfMonitor[8411]: [PH_HTTP_RESPONSE_FAILURE]:[eventSeverity]=PHL_WARNING,[procName]=phPerfMonitor,[fileName]=phHttpClient.cpp,[lineNumber]=572,[errorNo]=401,[phLogDetail]=HTTP response code failure
+2022-11-29T01:09:25.035009-08:00 CO-FSUP-01 phPerfMonitor[8411]: [PH_HTTP_CLIENT_GET_INIT_RESPONSE_FAILED]:[eventSeverity]=PHL_ERROR,[procName]=phPerfMonitor,[fileName]=phHttpClient.cpp,[lineNumber]=928,[infoURL]=https://10.1.64.28/svn/revisions/1/3627370/install-software.xml,[phLogDetail]=Http client failed to get initial response from URL: https://10.1.64.28/svn/revisions/1/3627370/install-software.xml. Error response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+2022-11-29T01:09:25.035013-08:00 CO-FSUP-01 phPerfMonitor[8411]: <html><head>
+2022-11-29T01:09:25.035016-08:00 CO-FSUP-01 phPerfMonitor[8411]: <title>401 Unauthorized</title>
+2022-11-29T01:09:25.035019-08:00 CO-FSUP-01 phPerfMonitor[8411]: </head><body>
+2022-11-29T01:09:25.035022-08:00 CO-FSUP-01 phPerfMonitor[8411]: <h1>Unauthorized</h1>
+2022-11-29T01:09:25.035026-08:00 CO-FSUP-01 phPerfMonitor[8411]: <p>This server could not verify that you
+2022-11-29T01:09:25.035029-08:00 CO-FSUP-01 phPerfMonitor[8411]: are authorized to access the document
+2022-11-29T01:09:25.035032-08:00 CO-FSUP-01 phPerfMonitor[8411]: requested.  Either you supplied the wrong
+2022-11-29T01:09:25.035035-08:00 CO-FSUP-01 phPerfMonitor[8411]: credentials (e.g., bad password), or your
+2022-11-29T01:09:25.035038-08:00 CO-FSUP-01 phPerfMonitor[8411]: browser doesn't understand how to supply
+2022-11-29T01:09:25.035041-08:00 CO-FSUP-01 phPerfMonitor[8411]: the credentials required.</p>
+2022-11-29T01:09:25.035044-08:00 CO-FSUP-01 phPerfMonitor[8411]: </body></html>
+2022-11-29T01:10:01.341675-08:00 CO-FSUP-01 phReportMaster[8407]: [PH_GENERIC_INFO]:[eventSeverity]=PHL_INFO,[procName]=phReportMaster,[fileName]=ProfileDBHandler.cpp,[lineNumber]=2091,[phLogDetail]=PROFILE_DB: profile_105 full for dateType=weekday, hourOfDay=0. Deleted BOTTOM 397 entries.
+2022-11-29T01:10:01.343416-08:00 CO-FSUP-01 phReportMaster[8407]: [PH_GENERIC_INFO]:[eventSeverity]=PHL_INFO,[procName]=phReportMaster,[fileName]=ProfileDBHandler.cpp,[lineNumber]=2091,[phLogDetail]=PROFILE_DB: profile_106 full for dateType=weekday, hourOfDay=0. Deleted BOTTOM 424 entries.
+2022-11-29T01:10:01.343709-08:00 CO-FSUP-01 phReportMaster[8407]: [PH_GENERIC_INFO]:[eventSeverity]=PHL_INFO,[procName]=phReportMaster,[fileName]=ProfileDBHandler.cpp,[lineNumber]=2091,[phLogDetail]=PROFILE_DB: profile_108 full for dateType=weekday, hourOfDay=0. Deleted BOTTOM 18 entries.
+2022-11-29T01:10:01.344024-08:00 CO-FSUP-01 phReportMaster[8407]: [PH_GENERIC_INFO]:[eventSeverity]=PHL_INFO,[procName]=phReportMaster,[fileName]=ProfileDBHandler.cpp,[lineNumber]=2091,[phLogDetail]=PROFILE_DB: profile_109 full for dateType=weekday, hourOfDay=0. Deleted BOTTOM 26 entries.
+2022-11-29T01:10:01.352163-08:00 CO-FSUP-01 phReportMaster[8407]: [PH_GENERIC_INFO]:[eventSeverity]=PHL_INFO,[procName]=phReportMaster,[fileName]=ProfileDBHandler.cpp,[lineNumber]=2091,[phLogDetail]=PROFILE_DB: profile_110 full for dateType=weekday, hourOfDay=0. Deleted BOTTOM 1420 entries.
+2022-11-29T01:10:01.354892-08:00 CO-FSUP-01 phReportMaster[8407]: [PH_GENERIC_INFO]:[eventSeverity]=PHL_INFO,[procName]=phReportMaster,[fileName]=ProfileDBHandler.cpp,[lineNumber]=2091,[phLogDetail]=PROFILE_DB: profile_111 full for dateType=weekday, hourOfDay=0. Deleted BOTTOM 1448 entries.
+2022-11-29T01:10:01.355032-08:00 CO-FSUP-01 phReportMaster[8407]: [PH_GENERIC_INFO]:[eventSeverity]=PHL_INFO,[procName]=phReportMaster,[fileName]=ProfileDBHandler.cpp,[lineNumber]=2091,[phLogDetail]=PROFILE_DB: profile_112 full for dateType=weekday, hourOfDay=0. Deleted BOTTOM 29 entries.
+2022-11-29T01:10:01.357027-08:00 CO-FSUP-01 phReportMaster[8407]: [PH_GENERIC_INFO]:[eventSeverity]=PHL_INFO,[procName]=phReportMaster,[fileName]=ProfileDBHandler.cpp,[lineNumber]=2091,[phLogDetail]=PROFILE_DB: profile_113 full for dateType=weekday, hourOfDay=0. Deleted BOTTOM 979 entries.
+2022-11-29T01:10:01.357422-08:00 CO-FSUP-01 phReportMaster[8407]: [PH_GENERIC_INFO]:[eventSeverity]=PHL_INFO,[procName]=phReportMaster,[fileName]=ProfileDBHandler.cpp,[lineNumber]=2091,[phLogDetail]=PROFILE_DB: profile_114 full for dateType=weekday, hourOfDay=0. Deleted BOTTOM 187 entries.
+2022-11-29T01:10:01.357645-08:00 CO-FSUP-01 phReportMaster[8407]: [PH_GENERIC_INFO]:[eventSeverity]=PHL_INFO,[procName]=phReportMaster,[fileName]=ProfileDBHandler.cpp,[lineNumber]=2091,[phLogDetail]=PROFILE_DB: profile_116 full for dateType=weekday, hourOfDay=0. Deleted BOTTOM 41 entries.
+2022-11-29T01:10:01.357947-08:00 CO-FSUP-01 phReportMaster[8407]: [PH_GENERIC_INFO]:[eventSeverity]=PHL_INFO,[procName]=phReportMaster,[fileName]=ProfileDBHandler.cpp,[lineNumber]=2091,[phLogDetail]=PROFILE_DB: profile_119 full for dateType=weekday, hourOfDay=0. Deleted BOTTOM 101 entries.
+2022-11-29T01:10:01.359801-08:00 CO-FSUP-01 phReportMaster[8407]: [PH_GENERIC_INFO]:[eventSeverity]=PHL_INFO,[procName]=phReportMaster,[fileName]=ProfileDBHandler.cpp,[lineNumber]=2091,[phLogDetail]=PROFILE_DB: profile_125 full for dateType=weekday, hourOfDay=0. Deleted BOTTOM 530 entries.
+2022-11-29T01:10:01.368245-08:00 CO-FSUP-01 phReportMaster[8407]: [PH_GENERIC_INFO]:[eventSeverity]=PHL_INFO,[procName]=phReportMaster,[fileName]=ProfileDBHandler.cpp,[lineNumber]=2091,[phLogDetail]=PROFILE_DB: profile_126 full for dateType=weekday, hourOfDay=0. Deleted BOTTOM 2751 entries.
+2022-11-29T01:10:01.368426-08:00 CO-FSUP-01 phReportMaster[8407]: [PH_GENERIC_INFO]:[eventSeverity]=PHL_INFO,[procName]=phReportMaster,[fileName]=ProfileDBHandler.cpp,[lineNumber]=2091,[phLogDetail]=PROFILE_DB: profile_127 full for dateType=weekday, hourOfDay=0. Deleted BOTTOM 27 entries.
+2022-11-29T01:10:01.368580-08:00 CO-FSUP-01 phReportMaster[8407]: [PH_GENERIC_INFO]:[eventSeverity]=PHL_INFO,[procName]=phReportMaster,[fileName]=ProfileDBHandler.cpp,[lineNumber]=2091,[phLogDetail]=PROFILE_DB: profile_128 full for dateType=weekday, hourOfDay=0. Deleted BOTTOM 30 entries.
+2022-11-29T01:10:26.211824-08:00 CO-FSUP-01 phPerfMonitor[8411]: [PH_HTTP_RESPONSE_FAILURE]:[eventSeverity]=PHL_WARNING,[procName]=phPerfMonitor,[fileName]=phHttpClient.cpp,[lineNumber]=572,[errorNo]=401,[phLogDetail]=HTTP response code failure
+2022-11-29T01:10:26.211882-08:00 CO-FSUP-01 phPerfMonitor[8411]: [PH_HTTP_CLIENT_GET_INIT_RESPONSE_FAILED]:[eventSeverity]=PHL_ERROR,[procName]=phPerfMonitor,[fileName]=phHttpClient.cpp,[lineNumber]=928,[infoURL]=https://10.1.64.28/svn/revisions/1/3627370/install-software.xml,[phLogDetail]=Http client failed to get initial response from URL: https://10.1.64.28/svn/revisions/1/3627370/install-software.xml. Error response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+2022-11-29T01:10:26.211885-08:00 CO-FSUP-01 phPerfMonitor[8411]: <html><head>
+2022-11-29T01:10:26.211888-08:00 CO-FSUP-01 phPerfMonitor[8411]: <title>401 Unauthorized</title>
+2022-11-29T01:10:26.211891-08:00 CO-FSUP-01 phPerfMonitor[8411]: </head><body>
+2022-11-29T01:10:26.211893-08:00 CO-FSUP-01 phPerfMonitor[8411]: <h1>Unauthorized</h1>
+2022-11-29T01:10:26.211896-08:00 CO-FSUP-01 phPerfMonitor[8411]: <p>This server could not verify that you
+2022-11-29T01:10:26.211899-08:00 CO-FSUP-01 phPerfMonitor[8411]: are authorized to access the document
+2022-11-29T01:10:26.211902-08:00 CO-FSUP-01 phPerfMonitor[8411]: requested.  Either you supplied the wrong
+2022-11-29T01:10:26.211904-08:00 CO-FSUP-01 phPerfMonitor[8411]: credentials (e.g., bad password), or your
+2022-11-29T01:10:26.211907-08:00 CO-FSUP-01 phPerfMonitor[8411]: browser doesn't understand how to supply
+2022-11-29T01:10:26.211909-08:00 CO-FSUP-01 phPerfMonitor[8411]: the credentials required.</p>
+2022-11-29T01:10:26.211912-08:00 CO-FSUP-01 phPerfMonitor[8411]: </body></html>
+2022-11-29T01:10:55.278968-08:00 CO-FSUP-01 phRuleWorker[8361]: [PH_GENERIC_INFO]:[eventSeverity]=PHL_INFO,[procName]=phRuleWorker,[fileName]=phRuleWorker.cpp,[lineNumber]=116,[phLogDetail]=Successfully establish connection to phRuleMaster at: 10.1.64.28 port: 7922
+2022-11-29T01:11:05.001635-08:00 CO-FSUP-01 phDataManager[8371]: [PH_SYSTEM_STORED_EVENTS_PER_SEC]:[eventSeverity]=PHL_INFO,[procName]=phDataManager,[fileName]=EventLoader.cpp,[lineNumber]=275,[eventsPerSec]=1095.600000,[peakEventsPerSec]=17274.725000,[phLogDetail]=
+2022-11-29T01:11:05.001680-08:00 CO-FSUP-01 phDataManager[8371]: [PH_SYSTEM_SUMM_EVENTS_STORED_EPS]:[eventSeverity]=PHL_INFO,[procName]=phDataManager,[fileName]=EventLoader.cpp,[lineNumber]=286,[durationMSec]=120000,[totEventCount]=4105,[eventsPerSec]=34.208333,[phLogDetail]=
+2022-11-29T01:11:05.001703-08:00 CO-FSUP-01 phDataManager[8371]: [PH_SYSTEM_EVENTS_VIA_ZMQ_EPS]:[eventSeverity]=PHL_INFO,[procName]=phDataManager,[fileName]=EventLoader.cpp,[lineNumber]=294,[durationMSec]=120000,[totEventCount]=13,[eventsPerSec]=0.108333,[phLogDetail]=
+2022-11-29T01:11:05.152114-08:00 CO-FSUP-01 phIpIdentityWorker[8401]: [PH_IDENTITYWORKER_PROCESSING_EPS]:[eventSeverity]=PHL_INFO,[procName]=phIpIdentityWorker,[fileName]=phIpIdentityWorker.cpp,[lineNumber]=177,[eventsPerSec]=1104.591667,[phLogDetail]=
+2022-11-29T01:11:25.773857-08:00 CO-FSUP-01 phRuleWorker[8361]: [PH_GENERIC_INFO]:[eventSeverity]=PHL_INFO,[procName]=phRuleWorker,[fileName]=phRuleWorker.cpp,[lineNumber]=116,[phLogDetail]=Successfully establish connection to phRuleMaster at: 10.1.64.28 port: 7922
+2022-11-29T01:11:27.370052-08:00 CO-FSUP-01 phPerfMonitor[8411]: [PH_HTTP_RESPONSE_FAILURE]:[eventSeverity]=PHL_WARNING,[procName]=phPerfMonitor,[fileName]=phHttpClient.cpp,[lineNumber]=572,[errorNo]=401,[phLogDetail]=HTTP response code failure
+2022-11-29T01:11:27.370094-08:00 CO-FSUP-01 phPerfMonitor[8411]: [PH_HTTP_CLIENT_GET_INIT_RESPONSE_FAILED]:[eventSeverity]=PHL_ERROR,[procName]=phPerfMonitor,[fileName]=phHttpClient.cpp,[lineNumber]=928,[infoURL]=https://10.1.64.28/svn/revisions/1/3627370/install-software.xml,[phLogDetail]=Http client failed to get initial response from URL: https://10.1.64.28/svn/revisions/1/3627370/install-software.xml. Error response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+2022-11-29T01:11:27.370098-08:00 CO-FSUP-01 phPerfMonitor[8411]: <html><head>
+2022-11-29T01:11:27.370101-08:00 CO-FSUP-01 phPerfMonitor[8411]: <title>401 Unauthorized</title>
+2022-11-29T01:11:27.370104-08:00 CO-FSUP-01 phPerfMonitor[8411]: </head><body>
+2022-11-29T01:11:27.370106-08:00 CO-FSUP-01 phPerfMonitor[8411]: <h1>Unauthorized</h1>
+2022-11-29T01:11:27.370109-08:00 CO-FSUP-01 phPerfMonitor[8411]: <p>This server could not verify that you
+2022-11-29T01:11:27.370112-08:00 CO-FSUP-01 phPerfMonitor[8411]: are authorized to access the document
+2022-11-29T01:11:27.370115-08:00 CO-FSUP-01 phPerfMonitor[8411]: requested.  Either you supplied the wrong
+2022-11-29T01:11:27.370117-08:00 CO-FSUP-01 phPerfMonitor[8411]: credentials (e.g., bad password), or your
+2022-11-29T01:11:27.370120-08:00 CO-FSUP-01 phPerfMonitor[8411]: browser doesn't understand how to supply
+2022-11-29T01:11:27.370122-08:00 CO-FSUP-01 phPerfMonitor[8411]: the credentials required.</p>
+2022-11-29T01:11:27.370125-08:00 CO-FSUP-01 phPerfMonitor[8411]: </body></html>
+2022-11-29T01:11:33.923123-08:00 CO-FSUP-01 phRuleMaster[82008]: [PH_RULEMOD_PROFILE]:[eventSeverity]=PHL_INFO,[procName]=phRuleMaster,[fileName]=phRuleForest.cpp,[lineNumber]=386,[ruleName]=Heavy TCP Host Scan On Fixed Port,[memTotalB]=7635484,[updateQueueSize]=1,[phLogDetail]=AggrCounts: 3665, 
+2022-11-29T01:11:33.923218-08:00 CO-FSUP-01 phRuleMaster[82008]: [PH_RULEMOD_PROFILE]:[eventSeverity]=PHL_INFO,[procName]=phRuleMaster,[fileName]=phRuleForest.cpp,[lineNumber]=386,[ruleName]=TCP DDOS Attack,[memTotalB]=4538840,[updateQueueSize]=1,[phLogDetail]=AggrCounts: 1762, 
+2022-11-29T01:11:33.923244-08:00 CO-FSUP-01 phRuleMaster[82008]: [PH_RULEMOD_PROFILE]:[eventSeverity]=PHL_INFO,[procName]=phRuleMaster,[fileName]=phRuleForest.cpp,[lineNumber]=386,[ruleName]=Heavy UDP Port Scan: Single Host,[memTotalB]=4499394,[updateQueueSize]=1,[phLogDetail]=AggrCounts: 1868, 
+2022-11-29T01:11:33.923262-08:00 CO-FSUP-01 phRuleMaster[82008]: [PH_RULEMOD_PROFILE]:[eventSeverity]=PHL_INFO,[procName]=phRuleMaster,[fileName]=phRuleForest.cpp,[lineNumber]=386,[ruleName]=Heavy TCP Host Scan,[memTotalB]=3514419,[updateQueueSize]=1,[phLogDetail]=AggrCounts: 993, 
+2022-11-29T01:11:33.923344-08:00 CO-FSUP-01 phRuleMaster[82008]: [PH_RULEMOD_PROFILE]:[eventSeverity]=PHL_INFO,[procName]=phRuleMaster,[fileName]=phRuleForest.cpp,[lineNumber]=386,[ruleName]=Heavy UDP Host Scan On Fixed Port,[memTotalB]=3288410,[updateQueueSize]=1,[phLogDetail]=AggrCounts: 1309, 
+2022-11-29T01:11:33.923363-08:00 CO-FSUP-01 phRuleMaster[82008]: [PH_RULEMOD_PROFILE]:[eventSeverity]=PHL_INFO,[procName]=phRuleMaster,[fileName]=phRuleForest.cpp,[lineNumber]=386,[ruleName]=Heavy UDP Host Scan,[memTotalB]=2906802,[updateQueueSize]=1,[phLogDetail]=AggrCounts: 1053, 
+2022-11-29T01:11:33.923385-08:00 CO-FSUP-01 phRuleMaster[82008]: [PH_RULEMOD_PROFILE]:[eventSeverity]=PHL_INFO,[procName]=phRuleMaster,[fileName]=phRuleForest.cpp,[lineNumber]=386,[ruleName]=Excessive Denied Connections From Same Src,[memTotalB]=968269,[updateQueueSize]=1,[phLogDetail]=AggrCounts: 316, 
+2022-11-29T01:11:33.923467-08:00 CO-FSUP-01 phRuleMaster[82008]: [PH_RULEMOD_PROFILE]:[eventSeverity]=PHL_INFO,[procName]=phRuleMaster,[fileName]=phRuleForest.cpp,[lineNumber]=386,[ruleName]=End User DNS Queries to Unauthorized DNS Servers,[memTotalB]=726412,[updateQueueSize]=1,[phLogDetail]=AggrCounts: 241, 
+2022-11-29T01:11:33.923483-08:00 CO-FSUP-01 phRuleMaster[82008]: [PH_RULEMOD_PROFILE]:[eventSeverity]=PHL_INFO,[procName]=phRuleMaster,[fileName]=phRuleForest.cpp,[lineNumber]=386,[ruleName]=Excessive Denied Connections To Same Destination,[memTotalB]=513493,[updateQueueSize]=1,[phLogDetail]=AggrCounts: 213, 
+2022-11-29T01:11:33.923495-08:00 CO-FSUP-01 phRuleMaster[82008]: [PH_RULEMOD_PROFILE]:[eventSeverity]=PHL_INFO,[procName]=phRuleMaster,[fileName]=phRuleForest.cpp,[lineNumber]=386,[ruleName]=Large Outbound Transfer,[memTotalB]=239960,[updateQueueSize]=1,[phLogDetail]=AggrCounts: 14650, 
+2022-11-29T01:11:42.278784-08:00 CO-FSUP-01 phParser[10136]: [PH_SYSTEM_EVENTS_PER_SEC]:[eventSeverity]=PHL_INFO,[procName]=phParser,[fileName]=LicenseEnforce.cpp,[lineNumber]=555,[eventsPerSec]=1089.611111,[peakEventsPerSec]=1213.300000,[guaranteedEventsPerSec]=6000,[phLogDetail]=
+2022-11-29T01:11:42.278840-08:00 CO-FSUP-01 phParser[10136]: [PH_SYSTEM_INTERNAL_EVENTS_PER_SEC]:[eventSeverity]=PHL_INFO,[procName]=phParser,[fileName]=LicenseEnforce.cpp,[lineNumber]=556,[eventsPerSec]=12.033333,[peakEventsPerSec]=71.470000,[phLogDetail]=
+2022-11-29T01:11:42.278874-08:00 CO-FSUP-01 phParser[10136]: [PH_SYSTEM_PERF_EVENTS_PER_SEC]:[eventSeverity]=PHL_INFO,[procName]=phParser,[fileName]=LicenseEnforce.cpp,[lineNumber]=557,[eventsPerSec]=62.955556,[peakEventsPerSec]=224.800000,[phLogDetail]=
+2022-11-29T01:11:55.429032-08:00 CO-FSUP-01 phRuleWorker[8361]: [PH_GENERIC_INFO]:[eventSeverity]=PHL_INFO,[procName]=phRuleWorker,[fileName]=phRuleWorker.cpp,[lineNumber]=116,[phLogDetail]=Successfully establish connection to phRuleMaster at: 10.1.64.28 port: 7922
+2022-11-29T01:12:25.963582-08:00 CO-FSUP-01 phRuleWorker[8361]: [PH_REPORT_PACK_FAILED_COUNT]:[eventSeverity]=PHL_WARNING,[procName]=phRuleWorker,[fileName]=LogTimer.cpp,[lineNumber]=19,[phLogDetail]=Failed to pack data 61 times
+2022-11-29T01:12:28.486259-08:00 CO-FSUP-01 phPerfMonitor[8411]: [PH_HTTP_RESPONSE_FAILURE]:[eventSeverity]=PHL_WARNING,[procName]=phPerfMonitor,[fileName]=phHttpClient.cpp,[lineNumber]=572,[errorNo]=401,[phLogDetail]=HTTP response code failure
+2022-11-29T01:12:28.486418-08:00 CO-FSUP-01 phPerfMonitor[8411]: [PH_HTTP_CLIENT_GET_INIT_RESPONSE_FAILED]:[eventSeverity]=PHL_ERROR,[procName]=phPerfMonitor,[fileName]=phHttpClient.cpp,[lineNumber]=928,[infoURL]=https://10.1.64.28/svn/revisions/1/3627370/install-software.xml,[phLogDetail]=Http client failed to get initial response from URL: https://10.1.64.28/svn/revisions/1/3627370/install-software.xml. Error response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+2022-11-29T01:12:28.486434-08:00 CO-FSUP-01 phPerfMonitor[8411]: <html><head>
+2022-11-29T01:12:28.486445-08:00 CO-FSUP-01 phPerfMonitor[8411]: <title>401 Unauthorized</title>
+2022-11-29T01:12:28.486454-08:00 CO-FSUP-01 phPerfMonitor[8411]: </head><body>
+2022-11-29T01:12:28.486465-08:00 CO-FSUP-01 phPerfMonitor[8411]: <h1>Unauthorized</h1>
+2022-11-29T01:12:28.486478-08:00 CO-FSUP-01 phPerfMonitor[8411]: <p>This server could not verify that you
+2022-11-29T01:12:28.486487-08:00 CO-FSUP-01 phPerfMonitor[8411]: are authorized to access the document
+2022-11-29T01:12:28.486498-08:00 CO-FSUP-01 phPerfMonitor[8411]: requested.  Either you supplied the wrong
+2022-11-29T01:12:28.486508-08:00 CO-FSUP-01 phPerfMonitor[8411]: credentials (e.g., bad password), or your
+2022-11-29T01:12:28.486519-08:00 CO-FSUP-01 phPerfMonitor[8411]: browser doesn't understand how to supply
+2022-11-29T01:12:28.486529-08:00 CO-FSUP-01 phPerfMonitor[8411]: the credentials required.</p>
+2022-11-29T01:12:28.486539-08:00 CO-FSUP-01 phPerfMonitor[8411]: </body></html>
+2022-11-29T01:13:05.009970-08:00 CO-FSUP-01 phDataManager[8371]: [PH_SYSTEM_STORED_EVENTS_PER_SEC]:[eventSeverity]=PHL_INFO,[procName]=phDataManager,[fileName]=EventLoader.cpp,[lineNumber]=275,[eventsPerSec]=1093.733333,[peakEventsPerSec]=17274.725000,[phLogDetail]=
+2022-11-29T01:13:05.009995-08:00 CO-FSUP-01 phDataManager[8371]: [PH_SYSTEM_SUMM_EVENTS_STORED_EPS]:[eventSeverity]=PHL_INFO,[procName]=phDataManager,[fileName]=EventLoader.cpp,[lineNumber]=286,[durationMSec]=120000,[totEventCount]=4693,[eventsPerSec]=39.108333,[phLogDetail]=
+2022-11-29T01:13:05.010005-08:00 CO-FSUP-01 phDataManager[8371]: [PH_SYSTEM_EVENTS_VIA_ZMQ_EPS]:[eventSeverity]=PHL_INFO,[procName]=phDataManager,[fileName]=EventLoader.cpp,[lineNumber]=294,[durationMSec]=120000,[totEventCount]=14,[eventsPerSec]=0.116667,[phLogDetail]=
+2022-11-29T01:13:05.329983-08:00 CO-FSUP-01 phIpIdentityWorker[8401]: [PH_IDENTITYWORKER_PROCESSING_EPS]:[eventSeverity]=PHL_INFO,[procName]=phIpIdentityWorker,[fileName]=phIpIdentityWorker.cpp,[lineNumber]=177,[eventsPerSec]=1077.133333,[phLogDetail]=
+2022-11-29T01:13:26.999540-08:00 CO-FSUP-01 phRuleWorker[8361]: [PH_GENERIC_INFO]:[eventSeverity]=PHL_INFO,[procName]=phRuleWorker,[fileName]=phRuleWorker.cpp,[lineNumber]=116,[phLogDetail]=Successfully establish connection to phRuleMaster at: 10.1.64.28 port: 7922
+2022-11-29T01:13:29.676513-08:00 CO-FSUP-01 phPerfMonitor[8411]: [PH_HTTP_RESPONSE_FAILURE]:[eventSeverity]=PHL_WARNING,[procName]=phPerfMonitor,[fileName]=phHttpClient.cpp,[lineNumber]=572,[errorNo]=401,[phLogDetail]=HTTP response code failure
+2022-11-29T01:13:29.676556-08:00 CO-FSUP-01 phPerfMonitor[8411]: [PH_HTTP_CLIENT_GET_INIT_RESPONSE_FAILED]:[eventSeverity]=PHL_ERROR,[procName]=phPerfMonitor,[fileName]=phHttpClient.cpp,[lineNumber]=928,[infoURL]=https://10.1.64.28/svn/revisions/1/3627370/install-software.xml,[phLogDetail]=Http client failed to get initial response from URL: https://10.1.64.28/svn/revisions/1/3627370/install-software.xml. Error response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+2022-11-29T01:13:29.676560-08:00 CO-FSUP-01 phPerfMonitor[8411]: <html><head>
+2022-11-29T01:13:29.676563-08:00 CO-FSUP-01 phPerfMonitor[8411]: <title>401 Unauthorized</title>
+2022-11-29T01:13:29.676566-08:00 CO-FSUP-01 phPerfMonitor[8411]: </head><body>
+2022-11-29T01:13:29.676569-08:00 CO-FSUP-01 phPerfMonitor[8411]: <h1>Unauthorized</h1>
+2022-11-29T01:13:29.676572-08:00 CO-FSUP-01 phPerfMonitor[8411]: <p>This server could not verify that you
+2022-11-29T01:13:29.676574-08:00 CO-FSUP-01 phPerfMonitor[8411]: are authorized to access the document
+2022-11-29T01:13:29.676577-08:00 CO-FSUP-01 phPerfMonitor[8411]: requested.  Either you supplied the wrong
+2022-11-29T01:13:29.676579-08:00 CO-FSUP-01 phPerfMonitor[8411]: credentials (e.g., bad password), or your
+2022-11-29T01:13:29.676582-08:00 CO-FSUP-01 phPerfMonitor[8411]: browser doesn't understand how to supply
+2022-11-29T01:13:29.676584-08:00 CO-FSUP-01 phPerfMonitor[8411]: the credentials required.</p>
+2022-11-29T01:13:29.676587-08:00 CO-FSUP-01 phPerfMonitor[8411]: </body></html>
+2022-11-29T01:14:30.767770-08:00 CO-FSUP-01 phPerfMonitor[8411]: [PH_HTTP_RESPONSE_FAILURE]:[eventSeverity]=PHL_WARNING,[procName]=phPerfMonitor,[fileName]=phHttpClient.cpp,[lineNumber]=572,[errorNo]=401,[phLogDetail]=HTTP response code failure
+2022-11-29T01:14:30.767825-08:00 CO-FSUP-01 phPerfMonitor[8411]: [PH_HTTP_CLIENT_GET_INIT_RESPONSE_FAILED]:[eventSeverity]=PHL_ERROR,[procName]=phPerfMonitor,[fileName]=phHttpClient.cpp,[lineNumber]=928,[infoURL]=https://10.1.64.28/svn/revisions/1/3627370/install-software.xml,[phLogDetail]=Http client failed to get initial response from URL: https://10.1.64.28/svn/revisions/1/3627370/install-software.xml. Error response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+2022-11-29T01:14:30.767830-08:00 CO-FSUP-01 phPerfMonitor[8411]: <html><head>
+2022-11-29T01:14:30.767833-08:00 CO-FSUP-01 phPerfMonitor[8411]: <title>401 Unauthorized</title>
+2022-11-29T01:14:30.767836-08:00 CO-FSUP-01 phPerfMonitor[8411]: </head><body>
+2022-11-29T01:14:30.767839-08:00 CO-FSUP-01 phPerfMonitor[8411]: <h1>Unauthorized</h1>
+2022-11-29T01:14:30.767843-08:00 CO-FSUP-01 phPerfMonitor[8411]: <p>This server could not verify that you
+2022-11-29T01:14:30.767846-08:00 CO-FSUP-01 phPerfMonitor[8411]: are authorized to access the document
+2022-11-29T01:14:30.767849-08:00 CO-FSUP-01 phPerfMonitor[8411]: requested.  Either you supplied the wrong
+2022-11-29T01:14:30.767852-08:00 CO-FSUP-01 phPerfMonitor[8411]: credentials (e.g., bad password), or your
+2022-11-29T01:14:30.767855-08:00 CO-FSUP-01 phPerfMonitor[8411]: browser doesn't understand how to supply
+2022-11-29T01:14:30.767858-08:00 CO-FSUP-01 phPerfMonitor[8411]: the credentials required.</p>
+2022-11-29T01:14:30.767861-08:00 CO-FSUP-01 phPerfMonitor[8411]: </body></html>
+2022-11-29T01:14:42.368867-08:00 CO-FSUP-01 phParser[10136]: [PH_SYSTEM_EVENTS_PER_SEC]:[eventSeverity]=PHL_INFO,[procName]=phParser,[fileName]=LicenseEnforce.cpp,[lineNumber]=555,[eventsPerSec]=1026.338889,[peakEventsPerSec]=1254.600000,[guaranteedEventsPerSec]=6000,[phLogDetail]=
+2022-11-29T01:14:42.368903-08:00 CO-FSUP-01 phParser[10136]: [PH_SYSTEM_INTERNAL_EVENTS_PER_SEC]:[eventSeverity]=PHL_INFO,[procName]=phParser,[fileName]=LicenseEnforce.cpp,[lineNumber]=556,[eventsPerSec]=12.383333,[peakEventsPerSec]=71.470000,[phLogDetail]=
+2022-11-29T01:14:42.368920-08:00 CO-FSUP-01 phParser[10136]: [PH_SYSTEM_PERF_EVENTS_PER_SEC]:[eventSeverity]=PHL_INFO,[procName]=phParser,[fileName]=LicenseEnforce.cpp,[lineNumber]=557,[eventsPerSec]=65.750000,[peakEventsPerSec]=224.800000,[phLogDetail]=
+2022-11-29T01:14:57.667718-08:00 CO-FSUP-01 phRuleWorker[8361]: [PH_GENERIC_INFO]:[eventSeverity]=PHL_INFO,[procName]=phRuleWorker,[fileName]=phRuleWorker.cpp,[lineNumber]=116,[phLogDetail]=Successfully establish connection to phRuleMaster at: 10.1.64.28 port: 7922
+2022-11-29T01:15:05.002096-08:00 CO-FSUP-01 phDataManager[8371]: [PH_SYSTEM_STORED_EVENTS_PER_SEC]:[eventSeverity]=PHL_INFO,[procName]=phDataManager,[fileName]=EventLoader.cpp,[lineNumber]=275,[eventsPerSec]=1031.700000,[peakEventsPerSec]=17274.725000,[phLogDetail]=
+2022-11-29T01:15:05.002138-08:00 CO-FSUP-01 phDataManager[8371]: [PH_SYSTEM_SUMM_EVENTS_STORED_EPS]:[eventSeverity]=PHL_INFO,[procName]=phDataManager,[fileName]=EventLoader.cpp,[lineNumber]=286,[durationMSec]=120000,[totEventCount]=4228,[eventsPerSec]=35.233333,[phLogDetail]=
+2022-11-29T01:15:05.002160-08:00 CO-FSUP-01 phDataManager[8371]: [PH_SYSTEM_EVENTS_VIA_ZMQ_EPS]:[eventSeverity]=PHL_INFO,[procName]=phDataManager,[fileName]=EventLoader.cpp,[lineNumber]=294,[durationMSec]=120000,[totEventCount]=32,[eventsPerSec]=0.266667,[phLogDetail]=
+2022-11-29T01:15:05.376631-08:00 CO-FSUP-01 phIpIdentityWorker[8401]: [PH_IDENTITYWORKER_PROCESSING_EPS]:[eventSeverity]=PHL_INFO,[procName]=phIpIdentityWorker,[fileName]=phIpIdentityWorker.cpp,[lineNumber]=177,[eventsPerSec]=1045.041667,[phLogDetail]=
+2022-11-29T01:15:27.236401-08:00 CO-FSUP-01 phRuleWorker[8361]: [PH_GENERIC_INFO]:[eventSeverity]=PHL_INFO,[procName]=phRuleWorker,[fileName]=phRuleWorker.cpp,[lineNumber]=116,[phLogDetail]=Successfully establish connection to phRuleMaster at: 10.1.64.28 port: 7922
+2022-11-29T01:15:31.975996-08:00 CO-FSUP-01 phPerfMonitor[8411]: [PH_HTTP_RESPONSE_FAILURE]:[eventSeverity]=PHL_WARNING,[procName]=phPerfMonitor,[fileName]=phHttpClient.cpp,[lineNumber]=572,[errorNo]=401,[phLogDetail]=HTTP response code failure
+2022-11-29T01:15:31.976054-08:00 CO-FSUP-01 phPerfMonitor[8411]: [PH_HTTP_CLIENT_GET_INIT_RESPONSE_FAILED]:[eventSeverity]=PHL_ERROR,[procName]=phPerfMonitor,[fileName]=phHttpClient.cpp,[lineNumber]=928,[infoURL]=https://10.1.64.28/svn/revisions/1/3627370/install-software.xml,[phLogDetail]=Http client failed to get initial response from URL: https://10.1.64.28/svn/revisions/1/3627370/install-software.xml. Error response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+2022-11-29T01:15:31.976059-08:00 CO-FSUP-01 phPerfMonitor[8411]: <html><head>
+2022-11-29T01:15:31.976062-08:00 CO-FSUP-01 phPerfMonitor[8411]: <title>401 Unauthorized</title>
+2022-11-29T01:15:31.976065-08:00 CO-FSUP-01 phPerfMonitor[8411]: </head><body>
+2022-11-29T01:15:31.976068-08:00 CO-FSUP-01 phPerfMonitor[8411]: <h1>Unauthorized</h1>
+2022-11-29T01:15:31.976071-08:00 CO-FSUP-01 phPerfMonitor[8411]: <p>This server could not verify that you
+2022-11-29T01:15:31.976075-08:00 CO-FSUP-01 phPerfMonitor[8411]: are authorized to access the document
+2022-11-29T01:15:31.976077-08:00 CO-FSUP-01 phPerfMonitor[8411]: requested.  Either you supplied the wrong
+2022-11-29T01:15:31.976080-08:00 CO-FSUP-01 phPerfMonitor[8411]: credentials (e.g., bad password), or your
+2022-11-29T01:15:31.976083-08:00 CO-FSUP-01 phPerfMonitor[8411]: browser doesn't understand how to supply
+2022-11-29T01:15:31.976086-08:00 CO-FSUP-01 phPerfMonitor[8411]: the credentials required.</p>
+2022-11-29T01:15:31.976088-08:00 CO-FSUP-01 phPerfMonitor[8411]: </body></html>
